@@ -2,6 +2,8 @@
 
 Dark, Droid Sans Mono heavy theme that goes great with my favourite color scheme Tomorrow Night.
 
+![The end result](https://raw.githubusercontent.com/simonwallstrom/sublime-settings/master/screenshot.png)
+
 ### Installation
 
 1. `cd` to `~/Library/Application\ Support/Sublime\ Text\ 3/Packages`
